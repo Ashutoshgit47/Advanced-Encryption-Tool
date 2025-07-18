@@ -38,7 +38,7 @@ cd Advanced-Encryption-Tool
 Run the script:
 
 ```bash
-python Advanced-Encryption-Tool.py
+python Advanced_Encryption_Tool.py
 ```
 
 ✅ Ensure Python 3.7+ is installed.

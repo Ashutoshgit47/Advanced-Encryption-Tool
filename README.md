@@ -32,7 +32,7 @@ pip install pycryptodome
 Clone this repository or download the script:
 
 ```bash
-git clone https://github.com/Ashutoshgit47/advanced-encryption-tool.git
+git clone https://github.com/Ashutoshgit47/Advanced-Encryption-Tool.git
 cd advanced-encryption-tool
 ```
 Run the script:
